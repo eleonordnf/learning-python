@@ -1,0 +1,6 @@
+name = input("what is your name?\n")
+print("Hi, ", name)
+years = input("How many years?\n")
+print(name, "has ", years, "years")
+name2 = input("what is your name?\n")
+print("Hi, ", name2, "and", name)
